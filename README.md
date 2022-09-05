@@ -3,7 +3,7 @@
 ## Website
 
 Interactive website for belly button biodiversity can be found here:
-https://alberzitas.github.io/plotly_deploy/
+https://alberzitas.github.io/plotly_deploy/index.html
 
 ## Purpose and Overview
 
