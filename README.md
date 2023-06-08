@@ -7,7 +7,7 @@ https://alberzitas.github.io/plotly_deploy/index.html
 
 ## Purpose and Overview
 
-Rosa needs to discover and document bacteria species that can synthesize protein that tastes like beef. Rosa has sampled bacteria from people everywhere by ID. To complete this project, she needs to be able to visualize the data for each volunteer. To accomplish this, we used JavaScript to display the sample data into  interactive bar, bubble, and gauge graphs. To do this, we had to utilize several JavaScript functions such as array.map(), filter(), and slice() to sort through and display the appropriate data. Additionally, because the sample data existed in json format, we had to use the d3.json library to visualize it with plotly.
+Rosa is engaged in a quest to identify and document bacterial species capable of synthesizing protein that mimics the taste of beef. In her pursuit, Rosa has collected bacterial samples from individuals worldwide, categorizing them by ID. To successfully accomplish this project, it is essential for Rosa to visualize the data associated with each volunteer. To achieve this objective, we employed JavaScript to present the sample data through interactive bar, bubble, and gauge graphs. This involved utilizing various JavaScript functions such as array.map(), filter(), and slice() to sort through and present the relevant data effectively. Furthermore, since the sample data was in JSON format, we utilized the d3.json library in conjunction with plotly to visualize the data.
 
 ## Analysis
 
